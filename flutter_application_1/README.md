@@ -1,6 +1,8 @@
 # flutter_application_1
 
 A new Flutter project.
+<img width="622" height="864" alt="image" src="https://github.com/user-attachments/assets/940b8f51-d634-4790-a1ae-373c3e41bcfd" />
+
 
 ## Getting Started
 
